@@ -2,7 +2,7 @@
 #include</usr/local/bin/include/bits/stdc++.h>
 using namespace std;//says that we are using cout,cin etc.. defined in standard namespace .
 
-namespace Mayank{//namespace is a declarative region that providfes scope to the identifiers ,variables,function defined inside it.
+namespace Mayank{//namespace is a declarative region that provides scope to the identifiers ,variables,function defined inside it.
     int val=50;
     int getVal(){return val;}
 }
